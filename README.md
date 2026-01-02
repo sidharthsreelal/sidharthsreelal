@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on interactive TUI (Terminal User Interface) applications to deepen my understanding of OS internals and Go.<br>👯 I’m looking to collaborate on open-source CLI tools. If you enjoy building developer productivity tools, reach out.<br>🌱 I’m currently learning Go with a focus on systems architecture. I am climbing the ladder toward Rust and other complex stuff to become a true CLI-native developer.<br>💬 Ask me about Python (automation, data analysis, scripting), Go-to-Market strategies, and Presentation design. New to systems engineering, strong at building and presenting solutions.<br>
+🔭I’m currently working on interactive TUI (Terminal User Interface) applications to deepen my understanding of OS internals and Go.<br>👯 I’m looking to collaborate on open-source CLI tools. If you enjoy building developer tools, reach out.<br>🌱 I’m currently learning Go with a focus on systems architecture. I am climbing the ladder toward Rust and other complex stuff to become a true CLI-native developer.<br>💬 Ask me about Python (automation, data analysis, scripting), Go-to-Market strategies, and Presentation design. New to systems engineering, strong at building and presenting solutions.<br>
 
 
 ## 🌐 Socials:
