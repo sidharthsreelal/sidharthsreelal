@@ -24,4 +24,4 @@ currently deep in systems engineering and cybersecurity.
 
 ---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sidharthsreelal&days=30&hide_border=true&theme=github-compact&hide_title=true)
+![](https://ghchart.ssh.surf/sidharthsreelal)
