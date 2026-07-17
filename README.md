@@ -1,7 +1,7 @@
 # hey, I'm Sid 👋
 
 building tools that solve problems i actually have.
-founder of HackTVM - india's first interschool hackathon under Hack Club.
+founder of HackTVM - India's first interschool hackathon under Hack Club.
 currently deep in systems engineering and cybersecurity.
 
 ---
